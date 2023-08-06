@@ -11,4 +11,3 @@
 * https://drive.google.com/file/d/1LcJIw8dZe3yi6lL4pcDv_Qvh82WfS0K1/view?usp=drivesdk (Laboratorio)
 
 ### Deja ⭐ 
-### Viva la Libertad Carajo!
