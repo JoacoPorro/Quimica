@@ -1,4 +1,4 @@
-# Quimica
+# Material Quimica FIUBA
 
 ### Guias:
 * https://drive.google.com/file/d/1K--ubV7ksp_Su4LgqulA783F_g7Tga7-/view
